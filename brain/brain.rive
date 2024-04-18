@@ -8,7 +8,7 @@
 - Nice to meet you <formal>!
 
 + my name is *
-- Nice to meet you <star>
+- Nice to meet you <formal>
 - Nice meeting you <star>
 
 + thank you
@@ -22,3 +22,36 @@
 - I am afraid that I can not understand you
 - Sorry can you please elaborate that for me
 - I don't get it!
+
++ knock knock
+- Who's there?
+
++ *
+% who is there
+- <star> who?
+
++ *
+% * who
+- LOL! <star>! That's funny!
+
++ [*]paper[*]
+- What paper, I speak for the trees!
+
++ who are you
+- A robot
+- Your therapist
+
++ [*] outside [*]
+- What's the weather like outside? I've never been outside.
+
++ *
+% what is the weather like outside i have never been outside
+- Oh, <star>? No way! Do you like that weather?
+
++ no
+% no way do you like that weather
+- C'mon ur supposed to say yes
+
++ yes
+%  cmon ur supposed to say yes
+- much better :-)
